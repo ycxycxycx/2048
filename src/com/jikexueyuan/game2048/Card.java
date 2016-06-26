@@ -34,7 +34,7 @@ public class Card extends FrameLayout {
 		}
 		switch (num) {
         case 0:
-            label.setBackgroundColor(0x00000000);
+            label.setBackgroundColor(0x7fffffff);
             break;
         case 2:
             label.setBackgroundColor(0xffeee4da);
